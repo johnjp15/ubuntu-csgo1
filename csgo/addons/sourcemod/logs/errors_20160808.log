@@ -1,0 +1,691 @@
+L 08/08/2016 - 05:10:45: SourceMod error session started
+L 08/08/2016 - 05:10:45: Info (map "de_dust2") (file "errors_20160808.log")
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2049 - -1905457151)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2050 - -388888574)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2051 - -1773008893)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2052 - -1234696188)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2053 - -1581971451)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2054 - -888076282)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2055 - -41613305)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2056 - -947255288)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2057 - -2098395127)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2058 - -1985476598)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2059 - -425654261)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2060 - -541063156)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2061 - -1539569651)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2062 - -864286706)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2063 - -858716145)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2064 - -1242626032)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2065 - -1566636015)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2066 - -1868888046)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2067 - -129824749)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2068 - -894564332)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2069 - -372242411)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2070 - -1011611626)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2071 - -1603663849)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2072 - -259782632)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2073 - -1827731431)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2074 - -365950950)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2075 - -891746277)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2076 - -1842804708)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2077 - -537327587)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2078 - -273807330)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2079 - -1454438369)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2080 - -1831335904)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2081 - -199751647)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:45: [SM] Exception reported: Invalid edict (2082 - -148502494)
+L 08/08/2016 - 05:10:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:45: [SM] Call stack trace:
+L 08/08/2016 - 05:10:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:54: Error log file session closed.
+L 08/08/2016 - 05:10:55: SourceMod error session started
+L 08/08/2016 - 05:10:55: Info (map "de_dust2") (file "errors_20160808.log")
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2083 - -5830621)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2084 - -1293678556)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2085 - -1077802971)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2086 - -446232538)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2087 - -971831257)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2088 - -2069166040)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2089 - -1397946327)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2090 - -838334422)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2091 - -1457584085)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2092 - -73660372)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2093 - -2022307795)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2094 - -727250898)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2095 - -615577553)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2096 - -1609758672)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2097 - -1008924623)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2098 - -1567487950)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2099 - -838858701)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2100 - -1609103308)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2101 - -754055115)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2102 - -150665162)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2103 - -779286473)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2104 - -1046673352)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2105 - -948565959)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2106 - -1942616006)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2107 - -1881143237)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2108 - -682817476)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2109 - -709490627)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2110 - -1484650434)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2111 - -424933313)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2112 - -738523072)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2113 - -1599666111)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2114 - -1957558206)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2115 - -1126823869)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:10:55: [SM] Exception reported: Invalid edict (2116 - -2062940092)
+L 08/08/2016 - 05:10:55: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:10:55: [SM] Call stack trace:
+L 08/08/2016 - 05:10:55: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:10:55: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:45: Error log file session closed.
+L 08/08/2016 - 05:33:54: SourceMod error session started
+L 08/08/2016 - 05:33:54: Info (map "de_dust2") (file "errors_20160808.log")
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2049 - -1905457151)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2050 - -388888574)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2051 - -1773008893)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2052 - -1234696188)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2053 - -1581971451)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2054 - -888076282)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2055 - -41613305)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2056 - -947255288)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2057 - -2098395127)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2058 - -1985476598)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2059 - -425654261)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2060 - -541063156)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2061 - -1539569651)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2062 - -864286706)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2063 - -858716145)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2064 - -1242626032)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2065 - -1566636015)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2066 - -1868888046)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2067 - -129824749)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2068 - -894564332)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2069 - -372242411)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2070 - -1011611626)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2071 - -1603663849)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2072 - -259782632)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2073 - -1827731431)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2074 - -365950950)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2075 - -891746277)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2076 - -1842804708)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2077 - -537327587)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2078 - -273807330)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2079 - -1454438369)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2080 - -1831335904)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2081 - -199751647)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:33:54: [SM] Exception reported: Invalid edict (2082 - -148502494)
+L 08/08/2016 - 05:33:54: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:33:54: [SM] Call stack trace:
+L 08/08/2016 - 05:33:54: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:33:54: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:44: Error log file session closed.
+L 08/08/2016 - 05:34:45: SourceMod error session started
+L 08/08/2016 - 05:34:45: Info (map "de_dust2") (file "errors_20160808.log")
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2083 - -5830621)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2084 - -1293678556)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2085 - -1077802971)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2086 - -446232538)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2087 - -971831257)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2088 - -2069166040)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2089 - -1397946327)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2090 - -838334422)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2091 - -1457584085)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2092 - -73660372)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2093 - -2022307795)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2094 - -727250898)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2095 - -615577553)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2096 - -1609758672)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2097 - -1008924623)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2098 - -1567487950)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2099 - -838858701)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2100 - -1609103308)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2101 - -754055115)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2102 - -150665162)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2103 - -779286473)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2104 - -1046673352)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2105 - -948565959)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2106 - -1942616006)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2107 - -1881143237)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2108 - -682817476)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2109 - -709490627)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2110 - -1484650434)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2111 - -424933313)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2112 - -738523072)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2113 - -1599666111)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2114 - -1957558206)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2115 - -1126823869)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
+L 08/08/2016 - 05:34:45: [SM] Exception reported: Invalid edict (2116 - -2062940092)
+L 08/08/2016 - 05:34:45: [SM] Blaming: NadeTails.smx()
+L 08/08/2016 - 05:34:45: [SM] Call stack trace:
+L 08/08/2016 - 05:34:45: [SM]   [0] GetEdictClassname
+L 08/08/2016 - 05:34:45: [SM]   [1] Line 334, /home/forums/content/files/2/4/8/3/8/6/133755.attach::OnEntitySpawned()
